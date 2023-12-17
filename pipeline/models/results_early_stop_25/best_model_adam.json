@@ -1,0 +1,19 @@
+{
+    "loss": 0.24224674329161644,
+    "metric": 0.7774096528689066,
+    "accuracy": 0.9957771201928457,
+    "precision": 0.7407143910725912,
+    "recall": 0.8275989443063736,
+    "optimizer": "Adam",
+    "cnn_depth": 4,
+    "first_channel": 32,
+    "batch_norm": true,
+    "drop_out": true,
+    "amsgrad": false,
+    "lr": 0.001,
+    "moment": [
+        0.9,
+        0.999
+    ],
+    "w_decay": 0
+}
